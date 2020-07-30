@@ -14,3 +14,4 @@ Final model: Decision Tree Classifier
 Both Request and Response are in Json!
 
 
+#To install the required package run the requirements.txt 
